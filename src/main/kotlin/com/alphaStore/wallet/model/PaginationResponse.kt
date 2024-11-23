@@ -1,6 +1,6 @@
 package com.alphaStore.wallet.model
 
-import com.alphaStore.user.reqres.FilterOption
+import com.alphaStore.wallet.reqres.FilterOption
 import com.fasterxml.jackson.annotation.JsonFilter
 import java.io.Serializable
 
